@@ -1,0 +1,25 @@
+{
+  "name": "desafio_mocha",
+  "version": "1.0.0",
+  "description": "Realizando um dos desafios do site codewars",
+  "main": "kata_boardgame.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProfessorMarcolan/Desafio_mocha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProfessorMarcolan/Desafio_mocha/issues"
+  },
+  "homepage": "https://github.com/ProfessorMarcolan/Desafio_mocha#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
